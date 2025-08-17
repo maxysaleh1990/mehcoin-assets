@@ -3,8 +3,9 @@
   "symbol": "MEH",
   "description": "The official Mehcoin token.",
   "image": "https://raw.githubusercontent.com/maxysaleh1990/mehcoin-assets/main/logo.png",
+  "address": "7G6E85XTLqEwmsgeXAG4FJGGqUY2UH1zHUUZss2Nrg8K"
   "extensions": {
-    "twitter": "https://x.com/mehmehcoin?s=21"
+    "twitter": "https://x.com/mehmehcoin"
   },
   "decimals": 9
 }
