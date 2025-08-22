@@ -1,0 +1,15 @@
+{
+  "name": "Mehcoin",
+  "symbol": "MEH",
+  "description": "Meh is tired",
+  "image": "https://raw.githubusercontent.com/maxysaleh1990/mehcoin-assets/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/maxysaleh1990/mehcoin-assets/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
